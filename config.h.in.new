@@ -1,0 +1,9 @@
+
+#ifndef INCLUDED_CONFIG_H
+#define INCLUDED_CONFIG_H
+
+# cmakedefine01 HAVE_ASSERT_H
+
+
+#endif /* INCLUDED_CONFIG_H */
+
